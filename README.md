@@ -1,4 +1,3 @@
-# dsa-daily
 # 🧠 LeetCode DSA Practice – Asmath Jabeen
 
 Hi, I'm Asmath Jabeen — a Computer Science graduate & Python developer solving LeetCode problems to build my logic, strengthen core CS concepts, and stay consistent.
