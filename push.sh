@@ -1,16 +1,12 @@
 #!/bin/bash
 
+# Prompt for file name
+read -p "📄 Enter filename (with path from repo root): " file
+
 # Get today's date
-today=$(date +%Y-%m-%d)
+today=$(date +"%Y-%m-%d")
 
-# Commit message with optional custom message
-msg=${1:-"daily commit - $today"}
-
-# Add everything
-git add .
-
-# Commit
-git commit -m "$msg"
-
-# Push
+# Git commands
+git add "$file"
+git commit -m "Add solution: $file ($today)"
 git push origin main
