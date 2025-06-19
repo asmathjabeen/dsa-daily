@@ -52,3 +52,17 @@ def twoSum(nums, target):
         if target - num in hash_map:
             return [hash_map[target - num], i]
         hash_map[num] = i
+### 🚀 Why This Repo?
+
+This isn't just a collection of solutions — it's proof of my growth and grit as a developer:
+
+- 📈 Practicing consistently to stay sharp
+- 🧠 Focusing on how to think, not just what to code
+- 📂 Committing clean, organized solutions with Git
+- 🔍 Actively preparing for Python development & entry-level tech roles
+---
+
+## 🤝 Connect With Me
+
+📫 **Email:** asmath9696@gmail.com  
+🔗 **LinkedIn:** [Asmath Jabeen](https://www.linkedin.com/in/asmath-jabeen/)
