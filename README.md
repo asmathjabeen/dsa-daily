@@ -51,7 +51,10 @@ def twoSum(nums, target):
     for i, num in enumerate(nums):
         if target - num in hash_map:
             return [hash_map[target - num], i]
-        hash_map[num] = i
+        hash_map[num] =i
+
+---
+
 ### 🚀 Why This Repo?
 
 This isn't just a collection of solutions — it's proof of my growth and grit as a developer:
