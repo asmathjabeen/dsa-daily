@@ -37,6 +37,20 @@ Hi, I'm Asmath Jabeen — a Computer Science graduate & Python developer solving
 - Dynamic Programming (coming 🔜)
 
 ---
+### 🚀 Why This Repo?
+
+This isn't just a collection of solutions — it's proof of my growth and grit as a developer:
+
+- 📈 Practicing consistently to stay sharp
+- 🧠 Focusing on how to think, not just what to code
+- 📂 Committing clean, organized solutions with Git
+- 🔍 Actively preparing for Python development & entry-level tech roles
+---
+
+## 🤝 Connect With Me
+
+📫 **Email:** asmath9696@gmail.com  
+🔗 **LinkedIn:** [Asmath Jabeen](https://www.linkedin.com/in/asmath-jabeen/)
 
 ### ✍️ Solution Format
 
@@ -54,18 +68,3 @@ def twoSum(nums, target):
         hash_map[num] =i
 
 ---
-
-### 🚀 Why This Repo?
-
-This isn't just a collection of solutions — it's proof of my growth and grit as a developer:
-
-- 📈 Practicing consistently to stay sharp
-- 🧠 Focusing on how to think, not just what to code
-- 📂 Committing clean, organized solutions with Git
-- 🔍 Actively preparing for Python development & entry-level tech roles
----
-
-## 🤝 Connect With Me
-
-📫 **Email:** asmath9696@gmail.com  
-🔗 **LinkedIn:** [Asmath Jabeen](https://www.linkedin.com/in/asmath-jabeen/)
