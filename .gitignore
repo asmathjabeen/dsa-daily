@@ -1,1 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+*.jar
+
+# macOS
+.DS_Store
 
