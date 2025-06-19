@@ -12,7 +12,7 @@ Hi, I'm Asmath Jabeen — a Computer Science graduate & Python developer solving
 ### 📊 Progress So Far  
 - ✅ **Total Solved**: 25 Problems  
 - 🟢 Easy: 17  
-- 🔴 Hard: 8  
+-  Medium: 8  
 - 🔄 Practicing daily to build depth & discipline
 
 ---
